@@ -2,7 +2,7 @@ name: Deploy Vite Vue App to GitHub Pages
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main" ]   # ← 기본 브랜치 이름이 main일 때
   workflow_dispatch:
 
 permissions:
