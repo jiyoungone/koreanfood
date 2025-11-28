@@ -31,3 +31,18 @@ footer > p { color: #fff; text-align: center; font-size: 16px; }
 .board-list { padding: 30px 0 60px; display: flex; justify-content: space-between; gap: 32px; }
 .board-list > li > .img-area { width: 100%; border-radius: 8px; overflow: hidden; margin-bottom: 20px; }
 .board-list > li .title { font-size: 24px; }
+.flex-list { display: flex; justify-content: space-between; align-items: center; padding-bottom: 80px; }
+.flex-list > li { width: 30%; text-align: center; }
+.flex-list > li .img-area { width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; overflow: hidden; }
+.flex-list > li .img-area img { width: 100%; }
+.flex-list > li .title { font-size: 28px; }
+.flex-list > li .posts { display: block; font-size: 12px; margin-top: 10px; }
+.flex-list > li .intro { margin-top: 30px; height: 160px; line-height: 1.6; }
+.video-area { width: 100%; }
+.video-area iframe { width: 100%; }
+.about-img-area { width: 780px; height: 546px; margin: 0 auto; border-radius: 8px; overflow: hidden; }
+.about-img-area > img { width: 100%; }
+.about-info-box { display: flex; flex-direction: column; gap: 60px; }
+.about-text { display: flex; flex-direction: column; gap: 50px; padding-bottom: 60px; }
+.about-text p { font-size: 19px; line-height: 1.7; }
+.about-text .subject { display: block; font-weight: bold; font-size: 32px; }
