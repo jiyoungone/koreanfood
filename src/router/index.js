@@ -1,11 +1,11 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 // 각 페이지 컴포넌트 import
-import HomeView from '../views/HomeView.vue'
-import BlogView from '../views/BlogView.vue'
-import AuthorView from '../views/AuthorView.vue'
-import VideosView from '../views/VideosView.vue'
-import AboutView from '../views/AboutView.vue'
+import Home from '../views/Home.vue'
+import Globalization from '../views/Globalization.vue'
+import Culture from '../views/Culture.vue'
+import Recipes from '../views/Recipes.vue'
+import About from '../views/About.vue'
 
 const router = createRouter({
   // GitHub Pages에서도 잘 동작하게 base 설정
@@ -14,27 +14,27 @@ const router = createRouter({
     {
       path: '/',
       name: 'home',
-      component: HomeView,
+      component: Home,
     },
     {
-      path: '/blog',
-      name: 'blog',
-      component: BlogView,
+      path: '/globalization',
+      name: 'globalization',
+      component: Globalization,
     },
     {
-      path: '/author',
-      name: 'author',
-      component: AuthorView,
+      path: '/culture',
+      name: 'culture',
+      component: Culture,
     },
     {
-      path: '/videos',
-      name: 'videos',
-      component: VideosView,
+      path: '/recipes',
+      name: 'recipes',
+      component: Recipes,
     },
     {
       path: '/about',
       name: 'about',
-      component: AboutView,
+      component: About,
     },
   ],
 })

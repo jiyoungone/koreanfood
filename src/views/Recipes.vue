@@ -1,7 +1,7 @@
 <template>
   <section class="contents">
     <div class="metaphor">
-      <h1>Videos</h1>
+      <h1>Recipes & Academy</h1>
       <p>
         Commercials, Music Videos, Television, Film (Short and Feature<br>length), TV News, Corporate video, and everything in between.
       </p>

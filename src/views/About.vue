@@ -1,11 +1,11 @@
 <template>
   <section class="contents">
     <div class="metaphor">
-      <h1>About</h1>
+      <h1>About K-Food</h1>
     </div>
     <div class="about-info-box">
       <div class="about-img-area">
-        <img src="/03.jpg" alt="">
+        <img src="/about-1.png" alt="">
       </div>
       <div class="about-text">
         <p>

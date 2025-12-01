@@ -5,10 +5,10 @@
       <nav class="nav">
         <!-- RouterLink로 각 페이지 연결 -->
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/blog">Blog</RouterLink>
-        <RouterLink to="/author">Author</RouterLink>
-        <RouterLink to="/videos">Videos</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/about">About K-Food</RouterLink>
+        <RouterLink to="/globalization">Globalization</RouterLink>
+        <RouterLink to="/recipes">Recipes & Academy</RouterLink>
+        <RouterLink to="/culture">Culture & Stories</RouterLink>
       </nav>
       <a href="mailto:abc@gmail.com" class="icon-email">
         <img src="/email.png" alt="">
@@ -21,7 +21,7 @@
     </main>
 
     <footer>
-      <p>@2025 yoonjiyeong</p>
+      <p>@2025 yoonjiyoung</p>
     </footer>
   </div>
 </template>

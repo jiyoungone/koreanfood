@@ -1,7 +1,7 @@
 <template>
   <section class="contents">
     <div class="metaphor">
-      <h1>Blog</h1>
+      <h1>Globalization of Korean food</h1>
       <p>
         Laruso blog features productivity, tips, inspiration and strategies<br>
         for massive profits. Find out how to set up a successful blog or<br>

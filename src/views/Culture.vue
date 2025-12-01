@@ -1,7 +1,7 @@
 <template>
   <section class="contents">
     <div class="metaphor">
-      <h1>Authors</h1>
+      <h1>Culture & Stories</h1>
     </div>
     <ul class="flex-list">
       <li>
