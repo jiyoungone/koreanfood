@@ -1,16 +1,15 @@
 <template>
   <div class="app">
     <header>
-      <h1 class="logo">Korean Food</h1>
+      <RouterLink to="/"><h1 class="logo">Korean Food</h1></RouterLink>
       <nav class="nav">
         <!-- RouterLink로 각 페이지 연결 -->
-        <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About K-Food</RouterLink>
         <RouterLink to="/globalization">Globalization</RouterLink>
         <RouterLink to="/recipes">Recipes & Academy</RouterLink>
         <RouterLink to="/culture">Culture & Stories</RouterLink>
       </nav>
-      <a href="mailto:abc@gmail.com" class="icon-email">
+      <a href="mailto:12506426@iscu.ac.kr" class="icon-email">
         <img src="/email.png" alt="">
       </a>
     </header>
