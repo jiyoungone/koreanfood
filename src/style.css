@@ -6,6 +6,7 @@
 body, body * { margin: 0; padding: 0; box-sizing: border-box; color: #333; list-style-type: none; text-decoration: none; }
 header, main, footer > p { width: 90%; margin: 0 auto; min-width: 1280px; }
 header { padding: 20px 0; display: flex; align-items: center; justify-content: space-between; }
+footer { width: 100%; }
 .logo { font-family: "Oswald", sans-serif; }
 .icon-email { display: block; width: 32px; }
 .icon-email > img { display: block; width: 100%; }
@@ -17,8 +18,9 @@ footer > p { color: #fff; text-align: center; font-size: 16px; }
 .contents { width: 968px; margin: 0 auto; }
 .img-area img { display: block; width: 100%; }
 .tag { display: inline-block; padding: 8px 16px; font-size: 13px; letter-spacing: -1px; color: rgb(76, 73, 203); background: rgba(76, 73, 203, 0.15); border-radius: 4px; }
-.title { display: block; margin-top: 16px; font-size: 42px; font-weight: bold; line-height: 1.2; letter-spacing: -1px; }
+.title { display: block; margin-top: 16px; font-size: 34px; font-weight: bold; line-height: 1.2; letter-spacing: -1px; }
 .text { color: #678; font-size: 16px; line-height: 1.7; margin-top: 40px; }
+.text a { font-size: 12px; }
 .metaphor { padding: 60px 0; text-align: center; }
 .metaphor > h1 { font-size: 60px; font-weight: bold; }
 .metaphor > p { margin-top: 20px; color: #678; font-size: 21px; line-height: 1.7; }
@@ -38,11 +40,15 @@ footer > p { color: #fff; text-align: center; font-size: 16px; }
 .flex-list > li .title { font-size: 28px; }
 .flex-list > li .posts { display: block; font-size: 12px; margin-top: 10px; }
 .flex-list > li .intro { margin-top: 30px; height: 160px; line-height: 1.6; }
-.video-area { width: 100%; }
+.video-area { width: 300px; height: 168px; overflow: hidden; display: flex; align-items: center; }
 .video-area iframe { width: 100%; }
 .about-img-area { width: 780px; height: 546px; margin: 0 auto; border-radius: 8px; overflow: hidden; }
 .about-img-area > img { width: 100%; }
 .about-info-box { display: flex; flex-direction: column; gap: 60px; }
 .about-text { display: flex; flex-direction: column; gap: 50px; padding-bottom: 60px; }
-.about-text p { font-size: 19px; line-height: 1.7; }
-.about-text .subject { display: block; font-weight: bold; font-size: 25px; }
+.about-text p { margin-top: 18px; font-size: 19px; line-height: 1.7; }
+.about-text .subject { display: block; font-weight: bold; font-size: 28px; }
+.text-area > .tag { margin-top: 20px; }
+a.gray, a.gray .posts { color: #888; }
+a.gray:hover, a.gray .posts:hover, a.underline:hover { text-decoration: underline; }
+a:hover .tag { background: #eed; color: #333; }

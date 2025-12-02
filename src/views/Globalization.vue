@@ -3,9 +3,8 @@
     <div class="metaphor">
       <h1>Globalization of Korean food</h1>
       <p>
-        Laruso blog features productivity, tips, inspiration and strategies<br>
-        for massive profits. Find out how to set up a successful blog or<br>
-        how to make yours even better!
+        한식은 이제 한국을 넘어 세계인의 식탁에 오르고 있습니다.<br>
+        김치, 비빔밥, 불고기, 김밥은 각국에서 사랑받으며 글로벌 푸드 트렌드를 선도합니다.
       </p>
     </div>
     <div class="main-info-box">
@@ -13,13 +12,20 @@
         <img src="/global-01.png" alt="김치">
       </div>
       <div class="text-area">
-        <span class="tag">김치</span>
-        <strong class="title">김치, 세계로 뻗어가다</strong>
+        <a href="/"><span class="tag">김치</span></a>
+        <strong class="title">김치, 세계로 나아가다</strong>
         <p class="text">
-          미국·유럽·동남아 등지에서 한식당과 식품 기업들이 활발히<br>
-          진출하며 글로벌 시장을 확대하고 있습니다.<br>
-          뉴욕 미쉐린 가이드에 오른 한식당, 동남아에서 인기 있는<br> 
-          K-푸드 브랜드가 대표적 사례입니다.</p>
+          김치는 한국의 대표적인 발효 음식으로, 건강과 지혜가<br> 
+          담긴 전통의 산물이며, 그 독특한 맛과 풍미는<br> 
+          이제 한국을 넘어 세계인의 식탁에 오르고 있습니다.<br> 
+          뉴욕의 레스토랑부터 파리의 푸드 페스티벌, <br>
+          방콕의 길거리 음식까지 다양한 모습으로 자리 잡고 있으며,<br>
+          세계인들은 김치를 통해 발효의 깊은 맛과 웰빙의 가치를 경험하고,<br>
+          김치는 반찬을 넘어 한국 문화와 정서를 담은 이야기입니다.<br>
+          각 나라의 셰프들은 김치를 활용해 새로운 퓨전 요리를<br>
+          만들어내며 창의성을 발휘하고 있습니다.<br>
+          김치의 세계화는 건강한 식문화를 확산시키는 동시에<br>
+          지속 가능한 음식의 가치를 보여줍니다.<br></p>
       </div>
     </div>
     <ul class="board-list">
@@ -28,12 +34,16 @@
           <img src="/global-02.png" alt="">
         </div>
         <div class="text-area">
-          <span class="tag">비빔밥</span>
-          <strong class="title">The purpose of our<br>lives is to be happy</strong>
+          <a href="/"><span class="tag">비빔밥</span></a>
+          <strong class="title">비빔밥, 한 그릇에 담긴<br> 문화와 맛을 섞어 세계로!</strong>
           <p class="text">
-            These complex processes, called physiological functions, have<br>
-            underlying physical and chemical bases, as well as signaling and<br>
-            control mechanisms that are essential to maintaining life.
+            비빔밥은 다양한 재료가 한 그릇에<br>
+            어우러진 조화의 상징입니다.<br>
+            그 풍부한 맛과 색감은 세계인의<br>
+            입맛을 사로잡고 있습니다.<br>
+            건강과 균형을 담은 비빔밥은 <br>
+            글로벌 웰빙 푸드로 자리매김하고 <br>
+            있습니다.
           </p>
         </div>
       </li>
@@ -42,12 +52,16 @@
           <img src="/global-03.png" alt="">
         </div>
         <div class="text-area">
-          <span class="tag">불고기</span>
-          <strong class="title">The purpose of our<br>lives is to be happy</strong>
+          <a href="/"><span class="tag">불고기</span></a>
+          <strong class="title">불고기, 달콤한 조화로<br> 한국의 불맛을 세계로~</strong>
           <p class="text">
-            These complex processes, called physiological functions, have<br>
-            underlying physical and chemical bases, as well as signaling and<br>
-            control mechanisms that are essential to maintaining life.
+            불고기는 달콤하고 짭조름한 풍미로<br>
+            세계인의 입맛을 사로잡고 있습니다.<br>
+            한국의 전통 불맛은 글로벌 <br>
+            레스토랑과 가정식에서 다양하게<br>
+            변주되고 있습니다.<br>
+            건강한 재료와 정성 어린 조리법은<br>
+            문화적 가치를 함께 전달합니다.
           </p>
         </div>
       </li>
@@ -56,12 +70,16 @@
           <img src="/global-04.png" alt="">
         </div>
         <div class="text-area">
-          <span class="tag">김밥</span>
-          <strong class="title">The purpose of our<br>lives is to be happy</strong>
+          <a href="/"><span class="tag">김밥</span></a>
+          <strong class="title">김밥, 모두를 감싸는<br> 한 줄에 담긴 세계의 조화</strong>
           <p class="text">
-            These complex processes, called physiological functions, have<br>
-            underlying physical and chemical bases, as well as signaling and<br>
-            control mechanisms that are essential to maintaining life.
+            김밥은 간편하면서도 건강한 한 끼로 <br>
+            세계인의 일상에 스며들고 있습니다.<br>
+            다양한 재료가 조화를 이루며 <br>
+            글로벌 푸드 트렌드에 맞는 균형 잡힌<br> 
+            맛을 선사합니다.<br>
+            휴대성과 창의적인 변주로 각국에서<br>
+            새로운 형태로 사랑받고 있습니다.
           </p>
         </div>
       </li>

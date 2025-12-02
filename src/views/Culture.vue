@@ -3,7 +3,8 @@
     <div class="metaphor">
       <h1>Culture & Stories</h1>
       <p>
-        Commercials, Music Videos, Television, Film (Short and Feature<br>length), TV News, Corporate video, and everything in between.
+        한식은 단순 음식이 아니라, 세대를 이어온 이야기와 문화를 담은 기록물입니다.<br>
+        맛을 넘어 삶과 전통을 공유하며 새로운 가치를 만들어갑니다.
       </p>      
     </div>
     <ul class="flex-list">
@@ -12,9 +13,9 @@
           <img src="/culture-01.png" alt="">
         </div>
         <strong class="title">한국 문화</strong>
-        <span class="posts">10 Posts</span>
+        <a href="/" class="gray"><span class="posts">https://brunch.co.kr/@why-i-write/105</span></a>
         <p class="intro">
-          I have experience in photographing beauty, fashion, e-commerce, and product photography for various brands.
+          한복은 우아한 선과 색으로 한국의 <br>미를 세계에 전하고, <br>한옥은 자연과 조화를 이루며 <br>지속 가능한 공간 문화를<br> 보여줍니다.
         </p>
       </li>
       <li>
@@ -22,9 +23,9 @@
           <img src="/culture-02.png" alt="">
         </div>
         <strong class="title">명절 떡국</strong>
-        <span class="posts">8 Posts</span>
+        <a href="/" class="gray"><span class="posts">https://m.blog.naver.com/mopaspr/221782626361</span></a>
         <p class="intro">
-          설날 아침에 먹는 떡국은 액운을 쫒고 장수를 기원하는 의미를 가지고 있습니다. 이렇듯 한식은 음식마다 특별한 이야기를 담고 있습니다.
+          설날 아침에 먹는 떡국은 <br>액운을 쫒고 장수를 기원하는<br> 의미를 가지고 있습니다.<br> 이렇듯 한식은 음식마다 특별한 <br>이야기를 담고 있습니다.
         </p>
       </li>
       <li>
@@ -32,9 +33,10 @@
           <img src="/culture-03.png" alt="">
         </div>
         <strong class="title">장독대</strong>
-        <span class="posts">5 Posts</span>
+        <a href="/" class="gray"><span class="posts">https://folkency.nfm.go.kr/topic/detail/12133</span></a>
         <p class="intro">
-          Hi, my name is Tiana, I'm originally from Finland, but I have been living in Spain for almost three years now.
+          장독대는 자연과 조화를 이루며<br> 발효의 지혜를 담아낸<br> 한국의 생활 문화입니다.<br>
+          그 의미는 맛을 넘어<br> 지속 가능한 가치로 연결됩니다.
         </p>
       </li>
     </ul>
