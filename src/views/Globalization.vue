@@ -12,7 +12,7 @@
         <img src="/global-01.png" alt="김치">
       </div>
       <div class="text-area">
-        <a href="/"><span class="tag">김치</span></a>
+        <a href="https://www.wikim.re.kr/kcip/" target="_blank"><span class="tag">김치</span></a>
         <strong class="title">김치, 세계로 나아가다</strong>
         <p class="text">
           김치는 한국의 대표적인 발효 음식으로, 건강과 지혜가<br> 
@@ -34,7 +34,7 @@
           <img src="/global-02.png" alt="">
         </div>
         <div class="text-area">
-          <a href="/"><span class="tag">비빔밥</span></a>
+          <a href="https://encykorea.aks.ac.kr/Article/E0025157" target="_blank"><span class="tag">비빔밥</span></a>
           <strong class="title">비빔밥, 한 그릇에 담긴<br> 문화와 맛을 섞어 세계로!</strong>
           <p class="text">
             비빔밥은 다양한 재료가 한 그릇에<br>
@@ -52,7 +52,7 @@
           <img src="/global-03.png" alt="">
         </div>
         <div class="text-area">
-          <a href="/"><span class="tag">불고기</span></a>
+          <a href="https://www.kculture.or.kr/brd/board/219/L/menu/456?brdType=R&thisPage=8&bbIdx=8352&rootCate=&searchField=&searchText=&recordCnt=10" target="_blank"><span class="tag">불고기</span></a>
           <strong class="title">불고기, 달콤한 조화로<br> 한국의 불맛을 세계로~</strong>
           <p class="text">
             불고기는 달콤하고 짭조름한 풍미로<br>
@@ -70,7 +70,7 @@
           <img src="/global-04.png" alt="">
         </div>
         <div class="text-area">
-          <a href="/"><span class="tag">김밥</span></a>
+          <a href="https://www.khs.go.kr/cop/bbs/selectBoardArticle.do?nttId=62196&bbsId=BBSMSTR_1008&pageUnit=0&searchtitle=&searchcont=&searchkey=&searchwriter=&searchWrd=&searchUseYn=&searchCnd=&ctgryLrcls=&ctgryMdcls=&ctgrySmcls=&ntcStartDt=&ntcEndDt=&mn=NS_01_09_01" target="_blank"><span class="tag">김밥</span></a>
           <strong class="title">김밥, 모두를 감싸는<br> 한 줄에 담긴 세계의 조화</strong>
           <p class="text">
             김밥은 간편하면서도 건강한 한 끼로 <br>

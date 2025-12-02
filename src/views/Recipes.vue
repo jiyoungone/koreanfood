@@ -19,7 +19,7 @@
           <p class="text">
             구절판 재료 : <br>
             표고 2개, 오이 ½ 개, 당근 ½ 개, <br>숙주 한 줌, 애호박 ¼ 개, <br>우엉 1토막, 목이버섯 약간, <br>소금 약간, 식용유 약간<br><br>
-            <a href="/" class="underline">더보기 ></a>
+            <a href="https://www.youtube.com/watch?v=C96i1IRThzA&t=1s" target="_blank" class="underline">더보기 ></a>
           </p> 
         </div>
       </li>
@@ -32,7 +32,7 @@
           <strong class="title">모듬전, 다양한 맛으로<br> 명절을 더욱더 풍성하게~</strong>
           <p class="text">
             꼬치전 재료 : <br>햄 우엉, 애호박, 쪽파 당근, <br>새송이버섯, 청홍고추, 단무지,<br> 게맛살, 부침가루, 계란,<br> 꼬지10~15개<br><br>
-            <a href="/" class="underline">더보기 ></a>
+            <a href="https://www.youtube.com/watch?v=JZC510HAW3M&t=1s" target="_blank" class="underline">더보기 ></a>
           </p>
         </div>
       </li>
@@ -45,7 +45,7 @@
           <strong class="title">잡채, 다채로운 맛과 빛깔로<br> 한국의 이야기로~</strong>
           <p class="text">
             잡채 재료 : <br>당면(300g), 잡채용 돼지고기(300g),<br> 양파(1개), 당근(1/3개), 빨강<br> 파프리카(1개), 노랑 파프리카(1개), <br>표고버섯(3개), 부추(한 줌), <br><br>
-            <a href="/" class="underline">더보기 ></a>
+            <a href="https://www.youtube.com/watch?v=MTfwI8zOkOQ&t=10s" target="_blank" class="underline">더보기 ></a>
           </p>
         </div>
       </li>      
@@ -64,7 +64,7 @@
             청양고추 3개, 베트남고추 7개<br>
             마늘 7알, 감자전분 2/3컵<br>
             소금, 후추<br><br>
-            <a href="/" class="underline">더보기 ></a>
+            <a href="https://www.youtube.com/watch?v=PX6lXqEmxKo&t=3s" target="_blank" class="underline">더보기 ></a>
           </p>
         </div>
       </li>
@@ -81,7 +81,7 @@
             실온버터 15g, 미지근한 물 250g<br>
             우유 50g, 드라이이스트 7g<br>
             설탕 30g, 소금 4g, 식용유 30g<br><br>
-            <a href="/" class="underline">더보기 ></a>
+            <a href="https://www.youtube.com/watch?v=2hh48d4TIYs&t=2s" target="_blank" class="underline">더보기 ></a>
           </p>
         </div>
       </li>
@@ -98,7 +98,7 @@
             양념장 :<br>
             고춧가루 4T, 설탕 3T, 고추장 2T,<br>
             간장 2T, 굴소스 2T, 식용유 1T, <br><br>
-            <a href="/" class="underline">더보기 ></a>
+            <a href="https://www.youtube.com/watch?v=xtW8mjglyfY" target="_blank" class="underline">더보기 ></a>
           </p>
         </div>
       </li>
