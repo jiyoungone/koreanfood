@@ -18,6 +18,9 @@
       <!-- 여기 안에 현재 선택된 페이지 컴포넌트가 표시됨 -->
       <RouterView />
     </main>
+    <footer class="footer">
+      <p>@2025 yoonjiyoung</p>
+    </footer>
   </div>
 </template>
 
