@@ -4,11 +4,11 @@
 
 /* layout & common */
 body, body * { margin: 0; padding: 0; box-sizing: border-box; color: #333; list-style-type: none; text-decoration: none; }
-header, main, footer > p { width: 90%; margin: 0 auto; min-width: 1280px; }
+header, main, .footer > p { width: 100%; margin: 0 auto; min-width: 1280px; }
 header { padding: 20px 0; display: flex; align-items: center; justify-content: space-between; }
-footer { display: block; width: 100%; }
-footer { background: #333; padding: 16px 0; }
-footer > p { color: #fff; text-align: center; font-size: 16px; }
+.footer { display: block; width: 100%; }
+.footer { background: #333; padding: 16px 0; }
+.footer p { color: #fff; text-align: center; font-size: 16px; line-height: 1.5; }
 .logo { font-family: "Oswald", sans-serif; }
 .icon-email { display: block; width: 32px; }
 .icon-email > img { display: block; width: 100%; }
