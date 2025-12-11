@@ -6,15 +6,15 @@
 body, body * { margin: 0; padding: 0; box-sizing: border-box; color: #333; list-style-type: none; text-decoration: none; }
 header, main, footer > p { width: 90%; margin: 0 auto; min-width: 1280px; }
 header { padding: 20px 0; display: flex; align-items: center; justify-content: space-between; }
-footer { width: 100%; }
+footer { display: block; width: 100%; }
+footer { background: #333; padding: 16px 0; }
+footer > p { color: #fff; text-align: center; font-size: 16px; }
 .logo { font-family: "Oswald", sans-serif; }
 .icon-email { display: block; width: 32px; }
 .icon-email > img { display: block; width: 100%; }
 .nav { display: flex; justify-content: center; align-items: center; gap: 100px; }
 .nav > a { display: block; font-size: 20px; font-weight: 600; }
 .nav > a:hover { color: #0af; }
-footer { background: #333; padding: 16px 0; }
-footer > p { color: #fff; text-align: center; font-size: 16px; }
 .contents { width: 968px; margin: 0 auto; }
 .img-area img { display: block; width: 100%; }
 .tag { display: inline-block; padding: 8px 16px; font-size: 13px; letter-spacing: -1px; color: rgb(76, 73, 203); background: rgba(76, 73, 203, 0.15); border-radius: 4px; }
